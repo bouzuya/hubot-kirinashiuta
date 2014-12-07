@@ -1,6 +1,6 @@
 {
   "name": "hubot-kirinashiuta",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script for making a Kirinashiuta",
   "main": "index.js",
   "scripts": {
